@@ -25,14 +25,12 @@ npm run e2e
 
 # run all tests
 npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
 
 # npm i 
+
 找到 lib-flexible包中的flexible.js
 修改 refreshRem()函数为
+```
 var width = docEl.getBoundingClientRect().width;
         var height = docEl.getBoundingClientRect().height;
         n = width / height
@@ -45,3 +43,10 @@ var width = docEl.getBoundingClientRect().width;
         docEl.style.fontSize = rem + 'px';
         flexible.rem = win.rem = rem;
 保存 运行
+```
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+
