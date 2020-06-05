@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # zzy-vue-full-screen
 
 > A Vue.js project
@@ -29,7 +28,20 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-# vue-full-screen
-vue  echarts svg
->>>>>>> 087f97f82c86229ed4f14b1680e344e34523479f
+
+
+# npm i 
+找到 lib-flexible包中的flexible.js
+修改 refreshRem()函数为
+var width = docEl.getBoundingClientRect().width;
+        var height = docEl.getBoundingClientRect().height;
+        n = width / height
+        e = 16 / 9
+        var rem = (n > e ? e / n : 1) * width / 10;
+        // if (width / dpr > 540) {
+        //     width = 540 * dpr;
+        // }
+        // var rem = width / 10;
+        docEl.style.fontSize = rem + 'px';
+        flexible.rem = win.rem = rem;
+保存 运行
