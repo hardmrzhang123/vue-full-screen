@@ -1752,12 +1752,15 @@ export default {
 //   border: 1px solid rgba(0, 215, 255, 1);
 // }
 .cls-1 {
+  opacity: 0;
   fill: url(#未命名的渐变_32);
 }
 .cls-2 {
+  opacity: 0;
   fill: url(#未命名的渐变_30);
 }
 .cls-3 {
+  opacity: 0;
   fill: url(#未命名的渐变_31);
 }
 .cls-10,
@@ -1858,24 +1861,31 @@ export default {
   stroke-width: 5px;
 }
 .cls-4 {
+  opacity: 0;
   stroke: url(#未命名的渐变_47);
 }
 .cls-5 {
+  opacity: 0;
   stroke: url(#未命名的渐变_43);
 }
 .cls-6 {
+  opacity: 0;
   fill: url(#未命名的渐变_32-2);
 }
 .cls-7 {
+  opacity: 0;
   fill: url(#未命名的渐变_30-2);
 }
 .cls-8 {
+  opacity: 0;
   fill: url(#未命名的渐变_31-2);
 }
 .cls-9 {
+  opacity: 0;
   stroke: url(#未命名的渐变_47-2);
 }
 .cls-10 {
+  opacity: 0;
   stroke: url(#未命名的渐变_43-2);
 }
 .cls-11 {
@@ -1902,27 +1912,34 @@ export default {
   opacity: 0.8;
 }
 .cls-12 {
+  opacity: 0;
   fill: url(#未命名的渐变_32-3);
 }
 .cls-13 {
+  opacity: 0;
   fill: url(#未命名的渐变_30-3);
 }
 .cls-14 {
+  opacity: 0;
   fill: url(#未命名的渐变_31-3);
 }
 .cls-15 {
+    opacity: 0;
   fill: url(#未命名的渐变_32-4);
 }
 .cls-16 {
+    opacity: 0;
   fill: url(#未命名的渐变_30-4);
 }
 .cls-17 {
+  opacity: 0;
   fill: url(#未命名的渐变_31-4);
 }
 .cls-18 {
   stroke: url(#未命名的渐变_47-3);
 }
 .cls-19 {
+  opacity: 0;
   stroke: url(#未命名的渐变_47-4);
 }
 .cls-20,
@@ -2010,6 +2027,7 @@ export default {
   stroke: url(#未命名的渐变_43-5);
 }
 .cls-35 {
+  opacity: 0;
   stroke: url(#未命名的渐变_43-6);
 }
 .cls-36 {
@@ -2037,6 +2055,7 @@ export default {
   stroke: url(#未命名的渐变_56-4);
 }
 .cls-44 {
+  opacity: 0;
   stroke: url(#未命名的渐变_56-5);
 }
 .cls-45 {
@@ -2166,81 +2185,106 @@ export default {
   stroke: url(#未命名的渐变_68-2);
 }
 .cls-87 {
+  opacity: 0;
   stroke: url(#未命名的渐变_68-3);
 }
 .cls-88 {
+  opacity: 0;
   stroke: url(#未命名的渐变_68-4);
 }
 .cls-89 {
   stroke: url(#未命名的渐变_56-7);
 }
 .cls-90 {
+  opacity: 0;
   stroke: url(#未命名的渐变_47-9);
 }
 .cls-91 {
+  opacity: 0;
   fill: url(#未命名的渐变_32-20);
 }
 .cls-92 {
+  opacity: 0;
   fill: url(#未命名的渐变_30-20);
 }
 .cls-93 {
+  opacity: 0;
   fill: url(#未命名的渐变_31-20);
 }
 .cls-94 {
+  opacity: 0;
   stroke: url(#未命名的渐变_47-10);
 }
 .cls-95 {
+  opacity: 0;
   stroke: url(#未命名的渐变_43-8);
 }
 .cls-96 {
+  opacity: 0;
   fill: url(#未命名的渐变_32-21);
 }
 .cls-97 {
+  opacity: 0;
   fill: url(#未命名的渐变_30-21);
 }
 .cls-98 {
+  opacity: 0;
   fill: url(#未命名的渐变_31-21);
 }
 .cls-99 {
+  opacity: 0;
   stroke: url(#未命名的渐变_47-11);
 }
 .cls-100 {
+  opacity: 0;
   stroke: url(#未命名的渐变_43-9);
 }
 .cls-101 {
+  opacity: 0;
   fill: url(#未命名的渐变_32-22);
 }
 .cls-102 {
+  opacity: 0;
   fill: url(#未命名的渐变_30-22);
 }
 .cls-103 {
+  opacity: 0;
   fill: url(#未命名的渐变_31-22);
 }
 .cls-104 {
+  opacity: 0;
   stroke: url(#未命名的渐变_47-12);
 }
 .cls-105 {
+  opacity: 0;
   stroke: url(#未命名的渐变_47-13);
 }
 .cls-106 {
+  opacity: 0;
   fill: url(#未命名的渐变_32-23);
 }
 .cls-107 {
+  opacity: 0;
   fill: url(#未命名的渐变_30-23);
 }
 .cls-108 {
+  opacity: 0;
   fill: url(#未命名的渐变_31-23);
 }
 .cls-109 {
+  opacity: 0;
   fill: url(#未命名的渐变_32-24);
 }
 .cls-110 {
+  opacity: 0;
   fill: url(#未命名的渐变_30-24);
 }
 .cls-111 {
+  opacity: 0;
   fill: url(#未命名的渐变_31-24);
 }
 .cls-112 {
+  opacity: 0;
   stroke: url(#未命名的渐变_43-10);
 }
 .cls-113 {
